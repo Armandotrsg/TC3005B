@@ -1,0 +1,17 @@
+{
+  "name": "tc3005b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.spec.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^123.0.2",
+    "mocha": "^10.4.0",
+    "selenium-webdriver": "^4.19.0"
+  }
+}
